@@ -1,6 +1,6 @@
 # Django Project Template
 
-This is yet another django project template that I created for personal use.
+This is yet another django project template that I created for personal use. Supports Django 1.7+.
 
 ## Usage
     # django-admin.py startproject --template=https://github.com/alexanderfinn/django-project-template/archive/master.zip --extension=py,md,env project_name
